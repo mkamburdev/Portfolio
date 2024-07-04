@@ -8,19 +8,21 @@ body {
 		'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 	max-width: 38rem;
 	margin: 0 auto;
+	background: linear-gradient(to bottom, #0c0a09, #000) no-repeat center
+		center fixed;
 }
 
 @media (max-width: 640px) {
 	.project-item {
-			margin-bottom: 20px;
+		margin-bottom: 20px;
 	}
 	.font-gluten {
-			font-size: 16px;
+		font-size: 16px;
 	}
 	.grid {
-			grid-template-columns: 1fr !important;
+		grid-template-columns: 1fr !important;
 	}
 	img {
-			height: auto !important;
+		height: auto !important;
 	}
 }
