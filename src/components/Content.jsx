@@ -2,15 +2,17 @@ import React from 'react'
 
 export default function Content() {
 	return (
-		<div className='w-11/12 m-auto'>
+		<div className="w-11/12 m-auto">
 			<p className="text-secondary mt-8 py-3">
-				I have been focusing on daily self-improvement and adhering to a
-				structured learning plan. Currently, I am enrolled in a full-time{' '}
-				<span className="text-primary">MERN stack</span> training program at{' '}
-				<span className="text-primary">DCI</span>. Upon completing my training, I
-				aim to find a suitable job opportunity to work in a team, gain
-				experience, and progress on my path to becoming a{' '}
-				<span className="text-primary">Full Stack Developer</span>.
+				I have 3 years of experience as a web developer and I am currently a
+				full-time student in the further education program at{' '}
+				<span className="text-primary">DCI</span> to advance my skills as a{' '}
+				<span className="text-primary">full-stack developer</span>. The
+				intensive training program mainly focuses on the{' '}
+				<span className="text-primary">MERN stack</span>. I am passionate about
+				using my skills and experience to create value for organizations. With
+				my education and experience, I am confident in delivering
+				action-oriented insights for clients.
 			</p>
 		</div>
 	)
