@@ -24,7 +24,7 @@ This is a portfolio website I created to showcase my work. Tailwind is a portfol
 
 <p align="center">
 
-[![wakatime](https://wakatime.com/badge/user/c4098210-7230-4567-8020-3c8b86be9c78/project/3ff155cd-1d88-4171-8724-20ffc5c4d2de.svg)](https://wakatime.com/@c4098210-7230-4567-8020-3c8b86be9c78/projects/rocqaalibt?start=2024-06-29&end=2024-07-05)
+Time spent on project: [![wakatime](https://wakatime.com/badge/user/c4098210-7230-4567-8020-3c8b86be9c78/project/3ff155cd-1d88-4171-8724-20ffc5c4d2de.svg)](https://wakatime.com/@c4098210-7230-4567-8020-3c8b86be9c78/projects/rocqaalibt?start=2024-06-29&end=2024-07-05)
 
 </p>
 
