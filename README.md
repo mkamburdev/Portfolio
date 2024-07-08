@@ -20,7 +20,7 @@
   </ul>
 </details>
 
-This is a portfolio website I created to showcase my work. Tailwind is a portfolio site with a minimal design developed with CSS, React and JavaScript.
+This portfolio website was created to showcase my work. Featuring a modern and minimal design, it is crafted with Tailwind CSS and developed using React and JavaScript.
 
 <p align="center">
 
