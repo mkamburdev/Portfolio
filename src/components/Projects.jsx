@@ -38,10 +38,10 @@ export default function Projects() {
 						target="_blank"
 						rel="noopener noreferrer"
 					>
-						<span className="font-gluten">Alanya Travel</span>
+						<span className="font-gluten">Antalya Travel</span>
 						<img
 							src={antalya}
-							alt="Alanya Travel"
+							alt="Antalya Travel"
 							className="rounded-xl w-full xs:h-96 sm:h-40 object-cover"
 						/>
 					</a>
