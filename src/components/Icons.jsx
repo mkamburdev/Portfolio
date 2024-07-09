@@ -19,7 +19,11 @@ export default function Icons() {
 			>
 				<FaLinkedin className="text-2xl" />
 			</a>
-			<a href="mailto:info@mkambur.com" target="_blank" rel="noopener noreferrer">
+			<a
+				href="mailto:info@mkambur.com"
+				target="_blank"
+				rel="noopener noreferrer"
+			>
 				<FaAt className="text-2xl" />
 			</a>
 			<a
@@ -29,7 +33,11 @@ export default function Icons() {
 			>
 				<FaTwitter className="text-2xl" />
 			</a>
-			<a rel="noopener noreferrer">
+			<a
+				rel="noopener noreferrer"
+				href="https://mkambur.com/resume.pdf"
+				target="_blank"
+			>
 				<TbFileCv className="text-2xl cursor-pointer" />
 			</a>
 		</div>
