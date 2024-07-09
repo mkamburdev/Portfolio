@@ -32,8 +32,8 @@ Time spent on project: [![wakatime](https://wakatime.com/badge/user/c4098210-723
 
 <div align="center">
 
-![mkambur.com](/src/assets/images/screenshot.jpg 'mkambur.com Screenshot')
-![Desktop Version](/src/assets/images/responsive1.png 'Desktop Version')
+![mkambur.com](/src/assets/images/screenshot.webp 'mkambur.com Screenshot')
+![Desktop Version](/src/assets/images/responsive1.webp 'Desktop Version')
 
 <p align="right">(<a href="#readme">back to top</a>)</p>
 </div>

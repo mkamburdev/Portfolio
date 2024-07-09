@@ -1,8 +1,8 @@
 import React from 'react'
-import antalya from '../assets/images/antalya.jpg'
-import converter from '../assets/images/converter.jpg'
-import hayadmu from '../assets/images/hayadmu.jpg'
-import zuolingo from '../assets/images/zuolingo.jpg'
+import antalya from '../assets/images/antalya.webp'
+import converter from '../assets/images/converter.webp'
+import hayadmu from '../assets/images/hayadmu.webp'
+import zuolingo from '../assets/images/zuolingo.webp'
 
 export default function Projects() {
 	return (
