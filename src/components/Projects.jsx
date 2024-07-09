@@ -10,11 +10,11 @@ export default function Projects() {
 			<div className="project-title flex justify-between">
 				<span>projects</span>
 				<a
-					href="https://github.com/mkamburdev?tab=repositories"
+					href="https://github.com/mkamburdev"
 					target="_blank"
 					className="text-secondary"
 				>
-					all works &#8227;
+					all projects &#8227;
 				</a>
 			</div>
 			<div className="grid grid-cols-1 text-center xs:grid-cols-1 sm:grid-cols-2 xl:grid-cols-2 gap-x-3 gap-y-3 py-4">
