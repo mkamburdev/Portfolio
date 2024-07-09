@@ -10,7 +10,7 @@ export default function Header() {
 			</div>
 			{/* <div className="bg-gradient bg-red-700 w-full py-32 absolute top-0 left-0 -z-10"></div> */}
 			<div className="title ml-5 flex flex-col gap-1 flex-1 m-auto">
-				<h1 className="text-xl">muhammed kambur</h1>
+				<h1 className="text-xl">Muhammed Kambur</h1>
 				<span className="text-secondary">web developer</span>
 			</div>
 			<div
