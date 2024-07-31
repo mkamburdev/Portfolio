@@ -1,8 +1,8 @@
-<h1 align="center">mkambur.com</h1>
+<h1 align="center">Portfolio</h1>
 
 <div id="readme">
 <p align="center">
-    <a href="https://mkambur.com/">View Demo</a>
+    <a href="https://mkambur.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/mkamburdev/mkambur.com/issues">Report Bug</a>
     ·
@@ -32,7 +32,7 @@ Time spent on project: [![wakatime](https://wakatime.com/badge/user/c4098210-723
 
 <div align="center">
 
-![mkambur.com](/src/assets/images/screenshot.webp 'mkambur.com Screenshot')
+![Portfolio](/src/assets/images/screenshot.webp 'Portfolio Screenshot')
 ![Desktop Version](/src/assets/images/responsive1.webp 'Desktop Version')
 
 <p align="right">(<a href="#readme">back to top</a>)</p>
